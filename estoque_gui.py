@@ -3,6 +3,9 @@
 #nao esquecer qual que era o erro
 #uma das funcoes que definia
 #staticmethod tava errada e eu tive que trocar
+#deixei uma copia a mais em baixo para testar
+#outras coisas, se eu deixasse so uma vez eu
+#nao conseguiria sem quebrar tudo
 
 """Interface gráfica do Sistema de Controle de Estoque."""
 
