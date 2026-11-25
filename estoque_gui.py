@@ -1,3 +1,5 @@
+#a primeira vez tava com uns erros
+
 """Interface gráfica do Sistema de Controle de Estoque."""
 '''
 import sqlite3
