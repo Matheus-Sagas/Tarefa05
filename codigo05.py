@@ -5,3 +5,4 @@ from estoque_gui import main
 
 if __name__ == "__main__":
     main()
+python3 -m unittest discover -v
