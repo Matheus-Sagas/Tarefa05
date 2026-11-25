@@ -1,4 +1,8 @@
 #a primeira vez tava com uns erros
+#deixei duas vezes para
+#nao esquecer qual que era o erro
+#uma das funcoes que definia
+#staticmethod tava errada e eu tive que trocar
 
 """Interface gráfica do Sistema de Controle de Estoque."""
 '''
